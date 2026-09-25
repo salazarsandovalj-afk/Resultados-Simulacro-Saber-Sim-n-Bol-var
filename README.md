@@ -1,5 +1,4 @@
-# Resultados-Simulacro-Saber-Simón Bolívar 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
